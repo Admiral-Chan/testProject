@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWebTest01/JavaWebTest01.iml" filepath="$PROJECT_DIR$/JavaWebTest01/JavaWebTest01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavendemo/mavendemo.iml" filepath="$PROJECT_DIR$/mavendemo/mavendemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/testProject.iml" filepath="$PROJECT_DIR$/testProject.iml" />
     </modules>
   </component>
